@@ -1,0 +1,112 @@
+body{
+    background:deepskyblue;
+}
+h1{
+    background:lime;
+}
+
+.btn{
+    box-shadow: 0px 1px 0px 0px #fff6af;
+    background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+    background-color:#ffec64;
+    border-radius:42px;
+    border:6px solid #ffaa22;
+    display:inline-block;
+    cursor:pointer;
+    color:#333333;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:19px 6px;
+    text-decoration:none;
+    text-shadow:-3px 4px 0px #ffee66;
+}
+.btn:hover {
+    background:linear-gradient(to bottom, #ffab23 5%, #ffec64 100%);
+    background-color:#ffab23;
+}
+.btn:active {
+    position:relative;
+    top:1px;
+}
+.btn2{
+    box-shadow: 2px 4px 0px 0px #218a85;
+    background:linear-gradient(to bottom, #00f208 5%, #f0d738 100%);
+    background-color:#00f208;
+    border-radius:26px;
+    border:1px solid #19c9cf;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:17px;
+    padding:10px 8px;
+    text-decoration:none;
+    text-shadow:0px 1px 0px #69f0e9;
+                                  }
+.btn2:hover {
+    background:linear-gradient(to bottom, #f0d738 5%, #00f208 100%);
+    background-color:#f0d738;
+}
+.btn2:active {
+    position:relative;
+    top:1px;
+}
+p{
+    background: darkorchid;
+    border: dotted gold;
+    border-radius: 16px;
+    horizontal-size:15px;
+}
+
+.btn3 {
+    box-shadow: 0px 4px 0px 0px #f0f7fa;
+    background:linear-gradient(to bottom, #ed34e1 5%, #0255d1 100%);
+    background-color:#ed34e1;
+    border-radius:6px;
+    border:1px solid #cf06c2;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 5px;
+    text-decoration:none;
+    text-shadow:0px 3px 0px #5b6178;
+}
+.btn3:hover {
+    background:linear-gradient(to bottom, #0255d1 5%, #ed34e1 100%);
+    background-color:#0255d1;
+}
+.btn3:active {
+    position: relative;
+    top: 1px;
+}
+
+.btn4 {
+    box-shadow:inset 0px 0px 0px 0px #f9eca0;
+    background:linear-gradient(to bottom, #1ef013 5%, #d8f01f 100%);
+    background-color:#1ef013;
+    border-radius:23px;
+    border:1px solid #80e645;
+    display:inline-block;
+    cursor:pointer;
+    color:#e61212;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:14px 9px;
+    text-decoration:none;
+    text-shadow:0px 2px 0px #ded17c;
+}
+.btn4:hover {
+    background:linear-gradient(to bottom, #d8f01f 5%, #1ef013 100%);
+    background-color:#d8f01f;
+}
+.btn4:active {
+    position:relative;
+    top:1px;
+}
+
+
